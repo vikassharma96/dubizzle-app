@@ -5,12 +5,18 @@
 
 ## **Getting Started**
 
-This section has the information about how to get get started with the Word Puzzle Game
+This section has the information about how to get started with the Dubizzle App
 
 ## **App Demo**
 
 <p align="center">
-<img width="180" height="300" src="" alt="logo">
+<img width="180" height="300" src="https://github.com/vikassharma96/dubizzle-app/blob/main/images/ss1.png" alt="logo">
+&nbsp;
+<img width="180" height="300" src="https://github.com/vikassharma96/dubizzle-app/blob/main/images/ss2.png" alt="logo">
+&nbsp;
+<img width="180" height="300" src="https://github.com/vikassharma96/dubizzle-app/blob/main/images/ss3.png" alt="logo">
+&nbsp;
+<img width="180" height="300" src="https://github.com/vikassharma96/dubizzle-app/blob/main/images/ss4.png" alt="logo">
 </p>
 
 ## **Prerequisites**
