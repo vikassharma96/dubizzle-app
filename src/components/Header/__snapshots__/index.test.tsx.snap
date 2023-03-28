@@ -1,0 +1,116 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`@components/Header should match snapshots 1`] = `
+<View
+  style={
+    {
+      "backgroundColor": "#24292e",
+      "height": "9%",
+      "zIndex": 10,
+    }
+  }
+>
+  <View
+    style={
+      {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "height": "100%",
+        "paddingHorizontal": "2%",
+      }
+    }
+  >
+    <Text
+      allowFontScaling={false}
+      selectable={false}
+      style={
+        [
+          {
+            "color": "white",
+            "fontSize": 20,
+          },
+          undefined,
+          {
+            "fontFamily": "Octicons",
+            "fontStyle": "normal",
+            "fontWeight": "normal",
+          },
+          {},
+        ]
+      }
+    >
+      
+    </Text>
+    <View
+      style={
+        {
+          "alignItems": "center",
+          "flexDirection": "row",
+          "flexGrow": 1,
+          "height": "100%",
+          "justifyContent": "flex-start",
+          "marginStart": "3%",
+          "paddingVertical": "2%",
+        }
+      }
+    >
+      <View
+        style={
+          {
+            "alignItems": "center",
+            "backgroundColor": "#fff",
+            "borderRadius": 5,
+            "flexDirection": "row",
+            "height": "100%",
+            "justifyContent": "space-evenly",
+            "paddingHorizontal": "3%",
+            "width": "80%",
+          }
+        }
+      >
+        <Text
+          allowFontScaling={false}
+          selectable={false}
+          style={
+            [
+              {
+                "color": "black",
+                "fontSize": 15,
+              },
+              undefined,
+              {
+                "fontFamily": "Octicons",
+                "fontStyle": "normal",
+                "fontWeight": "normal",
+              },
+              {},
+            ]
+          }
+        >
+          
+        </Text>
+        <TextInput
+          numberOfLines={1}
+          onChangeText={[Function]}
+          onFocus={[Function]}
+          onSubmitEditing={[Function]}
+          placeholder="Search Gists for the username"
+          returnKeyType="search"
+          style={
+            {
+              "alignItems": "center",
+              "fontFamily": "Poppins-Medium",
+              "fontSize": 12,
+              "marginStart": "2%",
+              "paddingBottom": 0,
+              "paddingTop": 0,
+              "width": "90%",
+            }
+          }
+          value=""
+        />
+      </View>
+    </View>
+  </View>
+</View>
+`;

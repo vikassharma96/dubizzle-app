@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`@components/LineSeperator should match snapshots 1`] = `
+<View
+  style={
+    [
+      {
+        "backgroundColor": "#ccc",
+        "height": 1,
+        "marginVertical": "2.5%",
+      },
+      {},
+    ]
+  }
+/>
+`;

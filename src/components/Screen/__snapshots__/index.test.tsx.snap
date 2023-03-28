@@ -1,0 +1,34 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`@components/Screen should match snapshots 1`] = `
+<RNSScreen
+  collapsable={false}
+  forwardedRef={[Function]}
+  gestureResponseDistance={
+    {
+      "bottom": -1,
+      "end": -1,
+      "start": -1,
+      "top": -1,
+    }
+  }
+  style={{}}
+>
+  <Text
+    style={
+      [
+        {
+          "fontFamily": "Poppins-Medium",
+          "fontSize": 12,
+        },
+        {
+          "color": "#000",
+        },
+        undefined,
+      ]
+    }
+  >
+    File
+  </Text>
+</RNSScreen>
+`;

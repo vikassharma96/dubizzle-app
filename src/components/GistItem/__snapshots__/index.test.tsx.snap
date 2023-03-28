@@ -1,0 +1,491 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`@components/GistItem should match snapshots 1`] = `
+[
+  <View
+    style={
+      {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "justifyContent": "space-between",
+        "marginBottom": "2%",
+        "marginEnd": "2%",
+      }
+    }
+  >
+    <View
+      accessibilityState={
+        {
+          "busy": undefined,
+          "checked": undefined,
+          "disabled": undefined,
+          "expanded": undefined,
+          "selected": undefined,
+        }
+      }
+      accessibilityValue={
+        {
+          "max": undefined,
+          "min": undefined,
+          "now": undefined,
+          "text": undefined,
+        }
+      }
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        {
+          "alignItems": "center",
+          "flexDirection": "row",
+          "opacity": 1,
+        }
+      }
+    >
+      <Image
+        source={
+          {
+            "uri": "https://avatars.githubusercontent.com/u/51054221?v=4",
+          }
+        }
+        style={
+          {
+            "borderRadius": 15,
+            "height": 30,
+            "width": 30,
+          }
+        }
+      />
+      <Text
+        style={
+          [
+            {
+              "fontFamily": "Poppins-Medium",
+              "fontSize": 12,
+            },
+            {
+              "color": "#000",
+            },
+            {
+              "alignSelf": "center",
+              "color": "#0366d6",
+              "fontFamily": "Poppins-Medium",
+              "fontSize": 12,
+              "marginStart": "5%",
+            },
+          ]
+        }
+      >
+        vikassharma96
+      </Text>
+    </View>
+    <View
+      style={
+        {
+          "alignItems": "center",
+          "flexDirection": "row",
+        }
+      }
+    >
+      <View
+        accessibilityState={
+          {
+            "busy": undefined,
+            "checked": undefined,
+            "disabled": undefined,
+            "expanded": undefined,
+            "selected": undefined,
+          }
+        }
+        accessibilityValue={
+          {
+            "max": undefined,
+            "min": undefined,
+            "now": undefined,
+            "text": undefined,
+          }
+        }
+        accessible={true}
+        collapsable={false}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          {
+            "alignItems": "center",
+            "flexDirection": "row",
+            "opacity": 1,
+          }
+        }
+      >
+        <Text
+          allowFontScaling={false}
+          selectable={false}
+          style={
+            [
+              {
+                "color": "#0366d6",
+                "fontSize": 16,
+              },
+              undefined,
+              {
+                "fontFamily": "Octicons",
+                "fontStyle": "normal",
+                "fontWeight": "normal",
+              },
+              {},
+            ]
+          }
+        >
+          
+        </Text>
+        <Text
+          style={
+            [
+              {
+                "fontFamily": "Poppins-Medium",
+                "fontSize": 12,
+              },
+              {
+                "color": "#000",
+              },
+              {
+                "color": "#0366d6",
+                "fontSize": 11,
+                "paddingEnd": "3%",
+                "paddingStart": "1.5%",
+              },
+            ]
+          }
+        >
+          1 File
+        </Text>
+      </View>
+      <View
+        accessibilityState={
+          {
+            "busy": undefined,
+            "checked": undefined,
+            "disabled": undefined,
+            "expanded": undefined,
+            "selected": undefined,
+          }
+        }
+        accessibilityValue={
+          {
+            "max": undefined,
+            "min": undefined,
+            "now": undefined,
+            "text": undefined,
+          }
+        }
+        accessible={true}
+        collapsable={false}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          {
+            "opacity": 1,
+          }
+        }
+      >
+        <Text
+          allowFontScaling={false}
+          selectable={false}
+          style={
+            [
+              {
+                "color": "#0366d6",
+                "fontSize": 15,
+              },
+              {
+                "paddingEnd": "4%",
+              },
+              {
+                "fontFamily": "Octicons",
+                "fontStyle": "normal",
+                "fontWeight": "normal",
+              },
+              {},
+            ]
+          }
+        >
+          
+        </Text>
+      </View>
+      <View
+        accessibilityState={
+          {
+            "busy": undefined,
+            "checked": undefined,
+            "disabled": undefined,
+            "expanded": undefined,
+            "selected": undefined,
+          }
+        }
+        accessibilityValue={
+          {
+            "max": undefined,
+            "min": undefined,
+            "now": undefined,
+            "text": undefined,
+          }
+        }
+        accessible={true}
+        collapsable={false}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          {
+            "opacity": 1,
+          }
+        }
+      >
+        <Text
+          allowFontScaling={false}
+          selectable={false}
+          style={
+            [
+              {
+                "color": "#0366d6",
+                "fontSize": 15,
+              },
+              {
+                "paddingEnd": "4%",
+              },
+              {
+                "fontFamily": "Octicons",
+                "fontStyle": "normal",
+                "fontWeight": "normal",
+              },
+              {},
+            ]
+          }
+        >
+          
+        </Text>
+      </View>
+      <View
+        accessibilityState={
+          {
+            "busy": undefined,
+            "checked": undefined,
+            "disabled": undefined,
+            "expanded": undefined,
+            "selected": undefined,
+          }
+        }
+        accessibilityValue={
+          {
+            "max": undefined,
+            "min": undefined,
+            "now": undefined,
+            "text": undefined,
+          }
+        }
+        accessible={true}
+        collapsable={false}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          {
+            "opacity": 1,
+          }
+        }
+      >
+        <Text
+          allowFontScaling={false}
+          selectable={false}
+          style={
+            [
+              {
+                "color": "#0366d6",
+                "fontSize": 15,
+              },
+              undefined,
+              {
+                "fontFamily": "Octicons",
+                "fontStyle": "normal",
+                "fontWeight": "normal",
+              },
+              {},
+            ]
+          }
+        >
+          
+        </Text>
+      </View>
+    </View>
+  </View>,
+  <Text
+    style={
+      [
+        {
+          "fontFamily": "Poppins-Medium",
+          "fontSize": 12,
+        },
+        {
+          "color": "#000",
+        },
+        {
+          "color": "#6B6D6E",
+          "fontFamily": "Poppins-Regular",
+          "fontSize": 10,
+          "marginBottom": "2%",
+        },
+      ]
+    }
+  >
+    Created at: 8/21/2020  Last updated: 8/21/2020
+  </Text>,
+  <Text
+    style={
+      [
+        {
+          "fontFamily": "Poppins-Medium",
+          "fontSize": 12,
+        },
+        {
+          "color": "#000",
+        },
+        {
+          "fontFamily": "Poppins-Regular",
+          "marginBottom": "2%",
+        },
+      ]
+    }
+  >
+    Pagination in react native
+  </Text>,
+  <RCTScrollView
+    contentContainerStyle={
+      [
+        {
+          "flexDirection": "row",
+          "width": "100%",
+        },
+        {
+          "marginBottom": "2%",
+          "marginStart": "3%",
+        },
+      ]
+    }
+    horizontal={true}
+    showsHorizontalScrollIndicator={false}
+  >
+    <View>
+      <View
+        accessibilityState={
+          {
+            "busy": undefined,
+            "checked": undefined,
+            "disabled": undefined,
+            "expanded": undefined,
+            "selected": undefined,
+          }
+        }
+        accessibilityValue={
+          {
+            "max": undefined,
+            "min": undefined,
+            "now": undefined,
+            "text": undefined,
+          }
+        }
+        accessible={true}
+        collapsable={false}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          {
+            "alignItems": "center",
+            "flexDirection": "row",
+            "marginEnd": "1%",
+            "opacity": 1,
+            "width": "100%",
+          }
+        }
+      >
+        <Text
+          allowFontScaling={false}
+          selectable={false}
+          style={
+            [
+              {
+                "color": "#0366d6",
+                "fontSize": 15,
+              },
+              undefined,
+              {
+                "fontFamily": "Octicons",
+                "fontStyle": "normal",
+                "fontWeight": "normal",
+              },
+              {},
+            ]
+          }
+        >
+          
+        </Text>
+        <Text
+          style={
+            [
+              {
+                "fontFamily": "Poppins-Medium",
+                "fontSize": 12,
+              },
+              {
+                "color": "#000",
+              },
+              {
+                "color": "#0366d6",
+                "fontFamily": "Poppins-Regular",
+                "fontSize": 12,
+                "marginStart": "1.5%",
+              },
+            ]
+          }
+        >
+          pagination.js
+        </Text>
+      </View>
+    </View>
+  </RCTScrollView>,
+]
+`;
