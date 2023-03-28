@@ -62,6 +62,8 @@ To Begin with the development you will need:
   - Contains type defination for models
 - utils
   - Contains constants and utility files
+- testing
+  - Contains jest configuration files for testing
 
 ## **Built With**
 
